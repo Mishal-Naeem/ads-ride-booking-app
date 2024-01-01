@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trasaction_date_and_time: 2023-12-31 23:26:16
+  status: 1
+  amount: 
+  driver: one
+  passenger: one
+  trip: 
+  payment_method: 
+
+two:
+  trasaction_date_and_time: 2023-12-31 23:26:16
+  status: 1
+  amount: 
+  driver: two
+  passenger: two
+  trip: 
+  payment_method: 

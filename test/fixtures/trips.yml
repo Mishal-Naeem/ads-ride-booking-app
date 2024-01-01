@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  distance: 9.99
+  start_time: 2023-12-31 16:45:43
+  status: 1
+  end_time: 2023-12-31 16:45:43
+  amount: 9.99
+  discounted_amount: 9.99
+  driver: one
+  passenger: one
+
+two:
+  distance: 9.99
+  start_time: 2023-12-31 16:45:43
+  status: 1
+  end_time: 2023-12-31 16:45:43
+  amount: 9.99
+  discounted_amount: 9.99
+  driver: two
+  passenger: two
