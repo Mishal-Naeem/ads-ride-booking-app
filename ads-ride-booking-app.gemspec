@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   # Add more dependencies as needed
 
   # Add author information
-  s.authors = ['Your Name']
-  s.email   = 'your@email.com'
+  s.authors = 'Mishal-Naeem'
+  s.email   = 'sheikhmishal35@email.com'
 
   # Specify the homepage
   s.homepage = 'https://github.com/Mishal-Naeem/ads-ride-booking-app'
